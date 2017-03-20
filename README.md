@@ -1,2 +1,2 @@
 # skyux-design
-Design resources for the SKY UX library.
+Tracking emerging designs through the UX pattern process.
